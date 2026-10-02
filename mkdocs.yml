@@ -2,9 +2,9 @@ site_name: ML for Physicists by Ethan
 site_description: Notes, tutorials, and worked notebooks on machine learning for physics, from first principles to applications in particle physics.
 site_author: Ethan
 # TODO: update these once the repo is on GitHub
-site_url: https://your-github-username.github.io/ml-for-physicists/
-repo_url: https://github.com/your-github-username/ml-for-physicists
-repo_name: ml-for-physicists
+site_url: https://els285.github.io/ml-for-physicists-by-ethan/
+repo_url: https://github.com/els285/ml-for-physicists-by-ethan
+repo_name: ml-for-physicists-by-ethan
 edit_uri: edit/main/docs/
 
 copyright: Copyright &copy; Ethan
