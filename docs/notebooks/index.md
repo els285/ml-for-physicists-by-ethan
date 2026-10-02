@@ -1,11 +1,15 @@
-# Intro
+# Introduction 
 
-Worked, runnable notebooks. Each one renders directly on this site (code, markdown, and saved
-outputs), and can also be downloaded and run locally or in Colab.
+Notebooks I have put together over the years. 
 
-The notebooks progress from PyTorch/ML fundamentals on a toy dataset (penguin measurements) to the
-main running example: separating a Higgs boson signal (&rarr; two leptons) from a top-quark-pair
-background, using 26 physics-motivated features per event.
+
+## How to use
+
+The notebooks render directly on this site but you can't run them interactively here.
+The recommended way to run the notebooks is through Google Colab: each notebook has a link which will open the notebook in Google Colab.
+Alternatively, click the link at the top of each notebook to download it. You can then run locally e.g. in VSCode provided you have a suitable iPython kernel and the necesasry Python modules installed. [Every module is pip-installable anyway but I will soon make some instructions on modern ways to set up Python environments.]
+
+
 
 <div class="card-grid" markdown>
 

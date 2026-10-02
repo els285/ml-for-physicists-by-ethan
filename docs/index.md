@@ -7,6 +7,10 @@ title: Home
 <p class="tagline">Some notebooks and tutorials I have built along with links to other great resources.</p>
 </div>
 
+
+![Cover banner](images/cover_banner.png){ .cover-banner }
+
+
 This site collects lecture notes, exercises, and worked Jupyter notebooks for learning machine
 learning with a physics audience in mind. The material assumes some familiarity with Python and
 undergraduate-level physics, but no prior ML background.
