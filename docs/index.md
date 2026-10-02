@@ -14,12 +14,12 @@ undergraduate-level physics, but no prior ML background.
 
 <div class="card-grid" markdown>
 
-<div markdown>
+<!-- <div markdown>
 ### :material-school: Course Materials
 Lecture notes, exercises, and curated resources, organized by topic.
 
 [Browse materials &rarr;](materials/index.md)
-</div>
+</div> -->
 
 <div markdown>
 ### :material-notebook: Notebooks
@@ -37,7 +37,7 @@ Who this is for, and how the site is put together.
 
 </div>
 
-## What's here right now
+<!-- ## What's here right now
 
 - **[DNN for HEP: PyTorch Lightning](notebooks/DNN4HEP_lightning.ipynb)** &mdash; rebuilding a
   binary classifier DNN with PyTorch Lightning's `LightningModule` / `LightningDataModule` /
@@ -47,7 +47,7 @@ Who this is for, and how the site is put together.
   confusion matrix, threshold selection, and model saving.
 
 More lectures, exercises, and notebooks will land in **Course Materials** as they're written &mdash;
-see that section for the planned structure.
+see that section for the planned structure. -->
 
 !!! note "Work in progress"
     This site is under active construction. Sections marked *coming soon* are placeholders for
